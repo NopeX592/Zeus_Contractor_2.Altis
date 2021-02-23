@@ -1,0 +1,136 @@
+Story line 1:
+Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB								🡻
+
+Story line 2:
+Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB			🡺		FOB Raid
+Takeout Source 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB
+
+Story line 3:
+CasEvac Start 🡺 CasEvac Dropoff 🡺 Collect Intel 🡺 Takeout Next in Line 🡺 Return to FOB											🡹
+Destroy Helicopter				 🡺 Takeout Sergeant
+
+Optional Missions:
+Destroy Fuel Depot
+Takeout Enemy Artillery
+
+
+1st Briefing:
+• Last deployment tensions rose
+• More CAST activity
+• Mostly infantry
+• Some mechanized armored vehicles
+• Three missions
+• CasEvac and Helicopter High priority
+• (Optional) Destroy Fuel Depot
+• (Optional) Takeout Enemy Artillery
+• Source or Convoy any order
+	Convoy:
+	• Head to FOB Gamma
+	• Contact will be waiting
+	• Follow to Checkpoint Alpha
+	• Weapons and Tools in truck along with confidential information
+	• Keep on high alert
+	• Upon arrival return to FOB
+
+	Source:
+	• Dead or Alive
+	• Preferred Alive
+	• After capture bring to FOB
+	• If dead further information at the time	
+	
+	CasEvac & Helicopter:
+	• Pilot has information
+	• Destroy Helicopter
+	• First Aid on site
+	• Bring him to main airfield
+	
+	General:
+	• All civilians evacuated
+	• Still high civilian activity
+	• Consider everyone hostile
+	• Check your targets
+	
+	Optional Tasks:
+	• Destroy enemy fuel depot
+	• Takeout enemy artillery
+
+	Callsigns:
+	• Mine is Alpha/Actual
+	• Ground Team is Beta/Griffin
+	• Avas is Charlie/Cookie
+	• Scout Team is Delta/Diamondbacks
+	
+	Support:
+	• Artillery Strikes possible
+	• Use only if no other way
+	
+• Any questions?
+
+
+2nd Briefing:
+	After Convoy:
+	• Team distribute water
+	• Pick it up
+	• Pickup at Galati
+	• Distribute at Agios Dionysios
+	• Possible attacks
+	
+	After Source at Base:
+	• Pickup POI at Syrta
+	• Bring POI to FOB
+	
+	After POI at Base:
+	• Intel gathered indicates enemy stronghold
+	• At Eginio
+	• Takeout all of them
+	• We have Boat at Iremi Bay
+	• Boat Optional
+	
+• Any questions?
+
+
+Intermissions:
+	Convoy:
+		After Convoy:
+		• RTB
+		• Other missions
+		• Humanitarian
+		
+		After Water Distribution:
+		• RTB (If no other mission active)
+		• Base attack imminent
+		
+	Source:
+		Line A:
+			After Source Captured:
+			• Bring Source to FOB
+			
+			After Source at FOB:
+			• Pickup POI at Syrta
+			• Bring POI to FOB
+		
+		Line B:
+			After Source Dead:
+			• Pickup POI at Syrta
+			• Bring POI to FOB
+			
+		After A or B done:
+		• See 2nd Briefing (POI at Base)
+		
+		After Stronghold:
+		• RTB (If no other mission active)
+		• Base attack imminent
+			
+	CasEvac:
+		After CasEvac Dropoff:
+		• Collect Intel
+		• Takeout Sergeant
+		• At marker on map
+		
+		After Intel & Sergeant:
+		• Takeout Next in Line
+		• At Chelonisi
+		
+		After Next in Line:
+		• RTB (If no other mission active)
+		• Base attack imminent
