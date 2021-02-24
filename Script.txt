@@ -2,7 +2,7 @@ Story line 1:
 Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB								🡻
 
 Story line 2:
-Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB			🡺		FOB Raid
+Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB		🡺		FOB Raid
 Takeout Source 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB
 
 Story line 3:
@@ -15,14 +15,18 @@ Takeout Enemy Artillery
 
 
 1st Briefing:
-• Last deployment tensions rose
-• More CAST activity
-• Mostly infantry
-• Some mechanized armored vehicles
-• Three missions
-• CasEvac and Helicopter High priority
-• (Optional) Destroy Fuel Depot
-• (Optional) Takeout Enemy Artillery
+General:
+	• Since your last deployment a week ago tensions rose
+		• More CSAT activity
+		• Tried evacuate all civilians
+			• Still high civilian activity
+			• Consider everyone hostile until proven otherwise
+	• Enemy Types to expect:
+		• Mostly infantry
+		• Some mechanized armored vehicles
+	• Front line markings only accurate for CSAT
+	• Three missions
+
 • Source or Convoy any order
 	Convoy:
 	• Head to FOB Gamma
@@ -38,31 +42,26 @@ Takeout Enemy Artillery
 	• After capture bring to FOB
 	• If dead further information at the time	
 	
+• CasEvac and Helicopter High priority
 	CasEvac & Helicopter:
 	• Pilot has information
 	• Destroy Helicopter
 	• First Aid on site
 	• Bring him to main airfield
 	
-	General:
-	• All civilians evacuated
-	• Still high civilian activity
-	• Consider everyone hostile
-	• Check your targets
-	
-	Optional Tasks:
-	• Destroy enemy fuel depot
-	• Takeout enemy artillery
+Optional Tasks:
+• Destroy enemy fuel depot
+• Takeout enemy artillery
 
-	Callsigns:
-	• Mine is Alpha/Actual
-	• Ground Team is Beta/Griffin
-	• Avas is Charlie/Cookie
-	• Scout Team is Delta/Diamondbacks
-	
-	Support:
-	• Artillery Strikes possible
-	• Use only if no other way
+Callsigns:
+• Mine is Alpha/Actual
+• Ground Team is Beta/Griffin
+• Avas is Charlie/Cookie
+• Scout Team is Delta/Diamondbacks
+
+Support:
+• Artillery Strikes possible
+• Use only if no other way
 	
 • Any questions?
 
