@@ -22,7 +22,13 @@ class CfgSounds
 	class Fortunateson
 	{
 		name = "Fortunateson";
-		sound[] = {"media\Fortunateson.ogg", 0.8, 1, 100};
+		sound[] = {"media\fortunateson.ogg", 0.8, 1, 100};
+		titles[] = {1, ""};
+	};
+	class Giveup
+	{
+		name = "Giveup";
+		sound[] = {"media\nevergonnagiveyouup.ogg", 0.8, 1, 100};
 		titles[] = {1, ""};
 	};
 };
