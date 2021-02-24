@@ -8,8 +8,10 @@ PB_fnc_postbriefing =
 
 while {_run} do {
 	if (task_0_1_skip) then {
-		//Play Fortunate Son and Create Intel
-		remoteExec ["PB_fnc_postbriefing", 0, true];
-		_run = false;
+		if (isServer) then {
+			//Play Fortunate Son and Create Intel
+			[PB_fnc_postbriefing] remoteExec ["call", 0, true];
+			_run = false;
+		};
 	};
 };
