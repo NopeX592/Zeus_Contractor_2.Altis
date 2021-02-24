@@ -25,5 +25,3 @@ while {_run} do {
 		_run = false;
 	};
 };
-
-bill_board setObjectTextureGlobal [0,"media\elonmusk.paa"];
