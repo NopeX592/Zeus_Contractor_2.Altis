@@ -13,7 +13,7 @@ task_1_5 = player createSimpleTask ["Distribute Water"];
 	
 trg_tsk_1_5 = createTrigger ["EmptyDetector", getMarkerPos "IDAP_Distribute"];
 	trg_tsk_1_5 setTriggerArea [20, 20, 20, false];
-	trg_tsk_1_5 setTriggerActivation ["water_truck", "PRESENT", false];
+	trg_tsk_1_5 setTriggerActivation ["ANYPLAYER", "PRESENT", false];
 	trg_tsk_1_5 setTriggerStatements ["this","",""];
 
 while {_run} do {

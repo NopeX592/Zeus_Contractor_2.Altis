@@ -26,7 +26,9 @@ while {_run} do {
 		[]execVM "story_2\return_fob_2.sqf";
 		deleteMarker _marker_stronghold;
 		_run = false;
-		task_2_6 setTaskState "Canceled";
-		["TaskCanceled",["","Get Boat (Optional)"]] call BIS_fnc_showNotification;
+		if (task_2_6_check == 1) then {
+			task_2_6 setTaskState "Canceled";
+			["TaskCanceled",["","Get Boat (Optional)"]] call BIS_fnc_showNotification;
+		};
 	};
 };
