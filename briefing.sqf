@@ -58,32 +58,18 @@ Support:<br/>
 
 waitUntil {!isNull player};
 player createDiaryRecord ["Diary", ["Notes",_roles]];
-player createDiaryRecord ["Diary", ["Mission brief",
-format ["
-%1<br/>
-Hello Gentleman's!<br/>
-<br/>
-As you know, we conduct a operations against hostile UAFoN.<br/>
-<br/>
-Today's task is, to sneak up behind enemy lines.<br/>
-After successful infiltration we're on 'stand by' being at HQ disposal.<br/>
-Orders form HQ are expected form this stage of mission.<br/>
-Our progress, as well as current situation is being constantly monitored by drone..<br/>",worldName]+
-"<br/>***********************************************************************************<br/>
-<br/>"
-]];
 player createDiaryRecord ["Diary", [_mission, _diary_text]];
 
-briefing_0_1_done = false;
-briefing_0_2_done = false;
-briefing_0_3_done = false;
-publicVariableServer "briefing_0_1_done";
-publicVariableServer "briefing_0_2_done";
-publicVariableServer "briefing_0_3_done";
+briefing_0_1 = false;
+briefing_0_2 = false;
+briefing_0_3 = false;
+publicVariableServer "briefing_0_1";
+publicVariableServer "briefing_0_2";
+publicVariableServer "briefing_0_3";
 
 
 while {_run_1} do {
-	if (briefing_0_1_done) then {
+	if (briefing_0_1) then {
 	screen_lrg_1 setObjectTextureGlobal [0,"media\truck.paa"];
 	screen_lrg_2 setObjectTextureGlobal [0,"media\miller.paa"];
 	_run_1 = false;
@@ -92,7 +78,7 @@ while {_run_1} do {
 };
 
 while {_run_2} do {
-	if (briefing_0_2_done) then {
+	if (briefing_0_2) then {
 	screen_lrg_1 setObjectTextureGlobal [0,"media\source.paa"];
 	screen_lrg_2 setObjectTextureGlobal [0,""];
 	_run_2 = false;
@@ -101,7 +87,7 @@ while {_run_2} do {
 };
 
 while {_run_3} do {
-	if (briefing_0_3_done) then {
+	if (briefing_0_3) then {
 	screen_lrg_1 setObjectTextureGlobal [0,"media\pilots.paa"];
 	screen_lrg_2 setObjectTextureGlobal [0,"media\helicopter.paa"];
 	_run_3 = false;
