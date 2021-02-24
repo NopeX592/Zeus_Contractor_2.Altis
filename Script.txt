@@ -53,12 +53,6 @@ Optional Tasks:
 • Destroy enemy fuel depot
 • Takeout enemy artillery
 
-Callsigns:
-• Mine is Alpha/Actual
-• Ground Team is Beta/Griffin
-• Avas is Charlie/Cookie
-• Scout Team is Delta/Diamondbacks
-
 Support:
 • Artillery Strikes possible
 • Use only if no other way

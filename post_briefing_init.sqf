@@ -3,6 +3,7 @@ PB_fnc_postbriefing = {
 	radio say3D "Fortunateson";
 	intel_1 addAction ["Pickup Intel","deleteVehicle intel_1;",nil,1.5,true,false,"","true",2,false,"",""];
 	intel_2 addAction ["Pickup Intel","deleteVehicle intel_2;",nil,1.5,true,false,"","true",2,false,"",""];
+	player addItem "ACRE_PRC152";
 };
 
 while {_run} do {
