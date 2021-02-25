@@ -21,7 +21,10 @@ PB_fnc_rickroll = {
 	radio say3D "Giveup";
 };
 
-if (isServer) then {
-	//Play Never Gonna Give You Up
-	[PB_fnc_rickroll] remoteExec ["call", 0, true];
+while {true} do {
+	if (isServer) then {
+		//Play Never Gonna Give You Up
+		[PB_fnc_rickroll] remoteExec ["call", 0, true];
+		sleep 215;
+	};
 };
