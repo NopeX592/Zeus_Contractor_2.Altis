@@ -21,6 +21,7 @@ while {_run} do {
 		[]execVM "story_3\find_pilots.sqf";
 		[]execVM "optional\destroy_artillery.sqf";
 		[]execVM "optional\fuel_depot.sqf";
+		[]execVM "post_briefing_init.sqf";
 		
 		_run = false;
 	};
