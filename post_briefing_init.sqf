@@ -1,6 +1,6 @@
 _run = true;
 water_handed = 0;
-publicVariableServer "water_handed";
+publicVariable "water_handed";
 
 sleep 1;
 
