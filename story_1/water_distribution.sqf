@@ -10,14 +10,16 @@ task_1_5 = player createSimpleTask ["Distribute Water"];
 	task_1_5 setSimpleTaskType "interact";
 	task_1_5 setTaskState "Assigned";
 	["TaskAssigned",["","Distribute Water"]] call BIS_fnc_showNotification;
-	
+
+/*	
 trg_tsk_1_5 = createTrigger ["EmptyDetector", getMarkerPos "IDAP_Distribute"];
 	trg_tsk_1_5 setTriggerArea [20, 20, 20, false];
 	trg_tsk_1_5 setTriggerActivation ["ANYPLAYER", "PRESENT", false];
 	trg_tsk_1_5 setTriggerStatements ["this","",""];
+*/
 
 while {_run} do {
-	if ((triggerActivated trg_tsk_1_5) || (task_1_5_skip)) then {
+	if ((water_handed == 5) || (task_1_5_skip)) then {
 		task_1_5 setTaskState "Succeeded";
 		["TaskSucceeded",["","Distribute Water"]] call BIS_fnc_showNotification;
 		deletevehicle trg_tsk_1_5;
