@@ -24,7 +24,7 @@ PB_fnc_rickroll = {
 while {true} do {
 	if (isServer) then {
 		//Play Never Gonna Give You Up
-		[PB_fnc_rickroll] remoteExec ["call", 0, true];
 		sleep 215;
+		[PB_fnc_rickroll] remoteExec ["call", 0, true];
 	};
 };
