@@ -1,66 +1,66 @@
 Story line 1:
-Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB								🡻
+	Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB								🡻
 
 Story line 2:
-Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB		🡺		FOB Raid
-Takeout Source 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB
+	Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB		🡺		FOB Raid
+	Takeout Source 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB
 
 Story line 3:
-CasEvac Start 🡺 CasEvac Dropoff 🡺 Collect Intel 🡺 Takeout Next in Line 🡺 Return to FOB											🡹
-Destroy Helicopter				 🡺 Takeout Sergeant
+	CasEvac Start 🡺 CasEvac Dropoff 🡺 Collect Intel 🡺 Takeout Next in Line 🡺 Return to FOB											🡹
+	Destroy Helicopter				 🡺 Takeout Sergeant
 
 Optional Missions:
-Destroy Fuel Depot
-Takeout Enemy Artillery
+	Destroy Fuel Depot
+	Takeout Enemy Artillery
 
 
 1st Briefing:
-General:
-	• Since your last deployment a week ago tensions rose
-		• More CSAT activity
-		• Tried evacuate all civilians
-			• Still high civilian activity
-			• Consider everyone hostile until proven otherwise
-	• Enemy Types to expect:
-		• Mostly infantry
-		• Some mechanized armored vehicles
-	• Front line markings only accurate for CSAT
-	• Three missions
+	General:
+		• Since your last deployment a week ago tensions rose
+			• More CSAT activity
+			• Tried evacuate all civilians
+				• Still high civilian activity
+				• Consider everyone hostile until proven otherwise
+		• Enemy Types to expect:
+			• Mostly infantry
+			• Some mechanized armored vehicles
+		• Front line markings only accurate for CSAT
+		• Three missions
 
-• Source or Convoy any order
-	Convoy:
-	• Head to FOB Gamma
-	• Contact will be waiting
-	• Follow to Checkpoint Alpha
-	• Weapons and Tools in truck along with confidential information
-	• Keep on high alert
-	• Upon arrival return to FOB
+	• Source or Convoy any order
+		Convoy:
+		• Head to FOB Gamma
+		• Contact will be waiting
+		• Follow to Checkpoint Alpha
+		• Weapons and Tools in truck along with confidential information
+		• Keep on high alert
+		• Upon arrival return to FOB
 
-	Source:
-	• Dead or Alive
-	• Preferred Alive
-	• After capture bring to FOB
-	• If dead further information at the time	
-	
-• CasEvac and Helicopter High priority
-	CasEvac & Helicopter:
-	• Pilot has information
-	• Destroy Helicopter
-	• First Aid on site
-	• Bring him to main airfield
-	
-Optional Tasks:
-• Destroy enemy fuel depot
-• Takeout enemy artillery
+		Source:
+		• Dead or Alive
+		• Preferred Alive
+		• After capture bring to FOB
+		• If dead further information at the time	
+		
+	• CasEvac and Helicopter High priority
+		CasEvac & Helicopter:
+		• Pilot has information
+		• Destroy Helicopter
+		• First Aid on site
+		• Bring him to main airfield
+		
+	Optional Tasks:
+	• Destroy enemy fuel depot
+	• Takeout enemy artillery
 
-Support:
-• Artillery Strikes possible
-• Use only if no other way
-• If worst comes to worst we might be able to free up a V-44X
+	Support:
+	• Artillery Strikes possible
+	• Use only if no other way
+	• If worst comes to worst we might be able to free up a V-44X
 
-• Sergej Maximoff will be joining you
+	• Sergej Maximoff will be joining you
 
-• Any questions?
+	• Any questions?
 
 
 2nd Briefing:
@@ -82,7 +82,7 @@ Support:
 	• We have Boat at Iremi Bay
 	• Boat Optional
 	
-• Any questions?
+	• Any questions?
 
 
 Intermissions:
