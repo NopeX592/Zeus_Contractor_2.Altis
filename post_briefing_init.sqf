@@ -12,30 +12,35 @@ PB_fnc_rickroll = {
 PB_fnc_action_1 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
 	water_handed = water_handed + 1;
+	publicVariable "water_handed";
 	[civilian_1, handwater_1] remoteExec ["removeAction", 0, true];
 };
 
 PB_fnc_action_2 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
 	water_handed = water_handed + 1;
+	publicVariable "water_handed";
 	[civilian_2, handwater_2] remoteExec ["removeAction", 0, true];
 };
 
 PB_fnc_action_3 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
 	water_handed = water_handed + 1;
+	publicVariable "water_handed";
 	[civilian_3, handwater_3] remoteExec ["removeAction", 0, true];
 };
 
 PB_fnc_action_4 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
 	water_handed = water_handed + 1;
+	publicVariable "water_handed";
 	[civilian_4, handwater_4] remoteExec ["removeAction", 0, true];
 };
 
 PB_fnc_action_5 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
 	water_handed = water_handed + 1;
+	publicVariable "water_handed";
 	[civilian_5, handwater_5] remoteExec ["removeAction", 0, true];
 };
 
