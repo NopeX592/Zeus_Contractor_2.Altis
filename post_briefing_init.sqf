@@ -8,6 +8,10 @@ PB_fnc_rickroll = {
 	radio say3D "Giveup";
 };
 
+PB_fnc_hardbass = {
+	blyat_mobile say3D "Hardbass";
+};
+
 //Remove Action
 PB_fnc_action_1 = {
 	player playMove "AinvPercMstpSrasWrflDnon_Putdown_AmovPercMstpSrasWrflDnon";
@@ -47,6 +51,7 @@ PB_fnc_action_5 = {
 //Create post briefing function
 PB_fnc_postbriefing = {
 	radio say3D "Fortunateson";
+	radio say3D "Hardbass";
 
 	//Add Action to Intel Objects
 	intel_1 addAction ["Pickup Intel","deleteVehicle intel_1;",nil,1.5,true,false,"","true",2,false,"",""];
@@ -76,6 +81,7 @@ while {_run} do {
 					//Play Never Gonna Give You Up
 					sleep 215;
 					[PB_fnc_rickroll] remoteExec ["call", 0, true];
+					[PB_fnc_hardbass] remoteExec ["call", 0, true];
 				};
 			};
 		};
