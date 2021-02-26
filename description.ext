@@ -37,5 +37,5 @@ respawn = 3;
 respawnDelay = 20;
 respawnDialog = 1;
 respawnOnStart = 0;
-respawnTemplates[] = { "MenuInventory", "MenuPosition" };
+respawnTemplates[] = { "MenuPosition" };
 respawnTemplatesVirtual[] = {}; 
