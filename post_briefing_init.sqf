@@ -51,7 +51,7 @@ PB_fnc_action_5 = {
 //Create post briefing function
 PB_fnc_postbriefing = {
 	radio say3D "Fortunateson";
-	radio say3D "Hardbass";
+	blyat_mobile say3D "Hardbass";
 
 	//Add Action to Intel Objects
 	intel_1 addAction ["Pickup Intel","deleteVehicle intel_1;",nil,1.5,true,false,"","true",2,false,"",""];
