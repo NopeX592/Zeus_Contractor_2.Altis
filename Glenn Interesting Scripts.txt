@@ -1,0 +1,10 @@
+The most interesting scripts probably are as follows:
+description.ext
+briefing.sqf
+give_radio.sqf
+post_briefing_int.sqf
+collect_intel.sqf
+fuel_depot.sqf
+water_distribution.sqf
+destroy_helicopter.sqf
+find_pilots.sqf
