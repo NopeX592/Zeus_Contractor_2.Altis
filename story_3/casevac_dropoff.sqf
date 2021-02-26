@@ -15,25 +15,29 @@ trg_tsk_3_3 = createTrigger ["EmptyDetector", getMarkerPos "FOB_Alpha"];
 	trg_tsk_3_3 setTriggerArea [15, 15, 15, false];
 	trg_tsk_3_3 setTriggerActivation ["VEHICLE", "PRESENT", false];
 	trg_tsk_3_3 setTriggerStatements ["this","",""];
-	trg_tsk_3_3 triggerAttachVehicle [pilot_2];
+	trg_tsk_3_3 triggerAttachVehicle [pilot];
 
 while {_run} do {
 	if ((triggerActivated trg_tsk_3_3) || (task_3_3_skip)) then {
 		task_3_3 setTaskState "Succeeded";
 		["TaskSucceeded",["","Bring Pilot to FOB Alpha"]] call BIS_fnc_showNotification;
 		deletevehicle trg_tsk_3_3;
-		[pilot_2] join (group medic);
+
+		[pilot] join (group medic);
+
 		[]execVM "story_3\collect_intel.sqf";
 		[]execVM "story_3\kill_sergeant.sqf";
 		_run = false;
+		hurt_loop = false;
 	} else {
-		if (!(alive pilot_2) || (task_3_3_fail)) then {
+		if (!(alive pilot) || (task_3_3_fail)) then {
 			task_3_3 setTaskState "Failed";
 			["TaskFailed",["","Bring Pilot to FOB Alpha"]] call BIS_fnc_showNotification;
 			deletevehicle trg_tsk_3_3;
 			[]execVM "story_3\collect_intel.sqf";
 			[]execVM "story_3\kill_sergeant.sqf";
 			_run = false;
+			hurt_loop = false;
 		};
 	};
 };
