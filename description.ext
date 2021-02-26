@@ -1,5 +1,4 @@
 briefingName = "Operation Greywater Part 2";
-respawnOnStart = 0;
 onLoadMissionTime = 1;
 
 author				= "Nope.X";
@@ -32,3 +31,11 @@ class CfgSounds
 		titles[] = {1, ""};
 	};
 };
+
+//Respawn Settings
+respawn = 3;
+respawnDelay = 20;
+respawnDialog = 1;
+respawnOnStart = 0;
+respawnTemplates[] = { "MenuInventory", "MenuPosition" };
+respawnTemplatesVirtual[] = {}; 
