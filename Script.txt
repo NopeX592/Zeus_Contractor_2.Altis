@@ -1,12 +1,12 @@
 Story line 1:
-	Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB								🡻
+	Move to FOB Gamma Convoy Escort 🡺 Return to FOB 🡺 Water Pickup 🡺 Water Distribution 🡺 Return to FOB							🡻
 
 Story line 2:
 	Capture Source 🡺 Bring Source to FOB 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB		🡺		FOB Raid
 	Takeout Source 🡺 Pickup POI 🡺 Bring POI to FOB 🡺 Get Boat 🡺 Raid Enemy Stronghold 🡺 Return to FOB
 
 Story line 3:
-	CasEvac Start 🡺 CasEvac Dropoff 🡺 Collect Intel 🡺 Takeout Next in Line 🡺 Return to FOB											🡹
+	CasEvac Start 🡺 CasEvac Dropoff 🡺 Collect Intel 🡺 Takeout Next in Line 🡺 Return to FOB										🡹
 	Destroy Helicopter				 🡺 Takeout Sergeant
 
 Optional Missions:

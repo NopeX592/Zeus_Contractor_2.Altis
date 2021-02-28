@@ -1,0 +1,11 @@
+• More condensed missions
+• Make artillery more takeoutable
+• Difficulty was fine
+• Limit Arsenal
+• Put Mortars at base
+• Inform about incoming fire
+• Do not Zeus anyone without consent
+• No units too close to respawns
+• Decrease trigger height
+• Spawn units with scripts
+• Make mission priority clear
